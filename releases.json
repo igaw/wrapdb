@@ -260,6 +260,14 @@
       "2.2.0-1"
     ]
   },
+  "dbus": {
+    "dependency_names": [
+      "libdbus"
+    ],
+    "versions": [
+      "1.15.2-1"
+    ]
+  },
   "docopt": {
     "dependency_names": [
       "docopt"

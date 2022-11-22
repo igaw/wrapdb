@@ -1,0 +1,8 @@
+[wrap-file]
+directory = dbus-dbus-1.15.2
+source_url = https://gitlab.freedesktop.org/dbus/dbus/-/archive/dbus-1.15.2/dbus-dbus-1.15.2.tar.bz2
+source_filename = dbus-dbus-1.15.2.tar.bz2
+source_hash = 43b93ef396a816dc28c26c71707a1d951a7df5c22b14806a4bd024d64aebbbe3
+
+[provide]
+libdbus = libdbus_dep

@@ -64,6 +64,12 @@
       "windows": false
     }
   },
+  "dbus": {
+    "build_on": {
+      "darwin": false,
+      "windows": false
+    }
+  },
   "epoxy": {
     "debian_packages": [
       "libgl-dev",
